@@ -84,9 +84,12 @@ Ensure you have the following installed:
 
 ## 🖼️ Screenshots  
 
-### 1. Doctor Application Page  
-![Doctor Application Screenshot](https://via.placeholder.com/800x400.png?text=Screenshot+of+Doctor+Application+Page)  
+### 1. Login Page  
+![Login Page Screenshot](Login+Page.png)  
 
-### 2. Appointment Dashboard  
-![Appointment Dashboard](https://via.placeholder.com/800x400.png?text=Screenshot+of+Appointment+Dashboard)  
+### 2. Home Page
+![Home Page Screenshot](Home+Page.png)  
+
+### 3. Appointment Dashboard  
+![Appointment Dashboard Screenshot](Appointment+Dashboard.png)  
 

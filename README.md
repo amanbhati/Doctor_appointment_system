@@ -90,27 +90,3 @@ Ensure you have the following installed:
 ### 2. Appointment Dashboard  
 ![Appointment Dashboard](https://via.placeholder.com/800x400.png?text=Screenshot+of+Appointment+Dashboard)  
 
----
-
-## 🤝 Contributing  
-
-Contributions are welcome! To contribute:  
-1. Fork the repository.  
-2. Create a new branch (`feature/your-feature-name`).  
-3. Commit your changes.  
-4. Push to your branch.  
-5. Open a pull request.  
-
----
-
-## 📜 License  
-
-This project is licensed under the **MIT License**.  
-
----
-
-## 📧 Contact  
-
-For inquiries or support, reach out at:  
-**Email**: [your-email@example.com](mailto:your-email@example.com)  
-**LinkedIn**: [Your LinkedIn](https://linkedin.com/in/your-profile)  

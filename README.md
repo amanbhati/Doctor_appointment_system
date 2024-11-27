@@ -85,11 +85,11 @@ Ensure you have the following installed:
 ## 🖼️ Screenshots  
 
 ### 1. Login Page  
-![Login Page Screenshot](Login%20Page.png)  
+![Login Page Screenshot](LoginPage.png)  
 
 ### 2. Home Page
-![Home Page Screenshot](Home%20Page.png)  
+![Home Page Screenshot](HomePage.png)  
 
 ### 3. Appointment List  
-![Appointment List Screenshot](Appointment%20List.png)  
+![Appointment List Screenshot](AppointmentList.png)  
 
